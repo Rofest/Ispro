@@ -15,6 +15,7 @@ class Program
         {
             Console.WriteLine(file);
         }
+
         //Изменения в первой ветке Nikita
 
         //Вывод информации о файлах в папке All
