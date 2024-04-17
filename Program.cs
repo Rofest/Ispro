@@ -15,7 +15,8 @@ class Program
         {
             Console.WriteLine(file);
         }
-
+        
+        //Изменение в первой ветке Maxim
         //Вывод информации о файлах в папке All
         Console.WriteLine("\nИнформация о файлах в папке All:");
         string[] allFilesInAllFolder = Directory.GetFiles(@"E:\temp\All", "*", SearchOption.AllDirectories);
